@@ -15,5 +15,5 @@ package DoublePoints;
 //        }
 //    }
 //}
-public class 移动零 {
+public class 移动零01 {
 }

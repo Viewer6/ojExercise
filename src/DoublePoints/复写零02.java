@@ -31,5 +31,5 @@ package DoublePoints;
 //        }
 //    }
 //}
-public class 复写零 {
+public class 复写零02 {
 }

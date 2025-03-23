@@ -21,5 +21,5 @@ package DoublePoints;
 //        return slow == 1;
 //    }
 //}
-public class 快乐数 {
+public class 快乐数03 {
 }
