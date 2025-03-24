@@ -1,9 +1,5 @@
 package DoublePoints;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 // 题目链接: https://leetcode.cn/problems/3sum/
 // 题目类型: 双指针07
 // 解题代码:
@@ -59,7 +55,7 @@ import java.util.List;
 //        return result;
 //    }
 //}
-public class 三数之和 {
+public class 三数之和07 {
     public static void main(String[] args) {
 //        System.out.println(Solution.threeSum(new int[]{-2,0,1,1,2}));
     }

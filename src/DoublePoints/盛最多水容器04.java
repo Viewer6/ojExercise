@@ -22,5 +22,5 @@ package DoublePoints;
 //        return max;
 //    }
 //}
-public class 盛最多水容器 {
+public class 盛最多水容器04 {
 }

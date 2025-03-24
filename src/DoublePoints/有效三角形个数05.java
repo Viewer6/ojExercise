@@ -22,5 +22,5 @@ package DoublePoints;
 //        return count;
 //    }
 //}
-public class 有效三角形个数 {
+public class 有效三角形个数05 {
 }

@@ -1,7 +1,7 @@
 package DoublePoints;
 
 // 题目链接: https://leetcode.cn/problems/4sum/
-// 题目类型: 双指针07
+// 题目类型: 双指针08
 // 解题代码:
 //class Solution {
 //    public List<List<Integer>> fourSum(int[] nums, int target) {
@@ -34,5 +34,5 @@ package DoublePoints;
 //        return result;
 //    }
 //}
-public class 四数之和 {
+public class 四数之和08 {
 }

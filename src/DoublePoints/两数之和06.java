@@ -15,5 +15,5 @@ package DoublePoints;
 //        return new int[]{};
 //    }
 //}
-public class 两数之和 {
+public class 两数之和06 {
 }
